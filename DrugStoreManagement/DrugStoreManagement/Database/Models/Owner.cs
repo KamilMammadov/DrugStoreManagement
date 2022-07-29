@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DrugStoreManagement.Database.Models
 {
-    class Owner
+    class Owner:User
     {
     }
 }
